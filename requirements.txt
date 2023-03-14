@@ -1,0 +1,8 @@
+django==3.2.16 
+django-environ==0.10.0 #pone en secreto las contraseñas x ejemplo
+django-cors-headers==3.14.0 #permite la comunicacion entre fortend y backend
+djangorestframework==3.14.0 #permite crear APIS con django
+Pillow==9.4.0 #permite trabajar con imagenes
+django-storages==1.13.2 #permite guardar las imagenes 
+django-ckeditor==6.5.1 #permite crear contenido mas rico
+psycopg2==2.9.5 #trabaja con la base de datos de postgrsql
