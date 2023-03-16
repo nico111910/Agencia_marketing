@@ -1,1 +1,4 @@
-{"python.autoComplete.extraPaths": ["./src"]}
+{
+    "python.analysis.typeCheckingMode": "basic"
+   
+}
